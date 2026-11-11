@@ -34,6 +34,7 @@ Anything you'd look up is already in your chat.
 - **Classes:** every class, race and racial, ability and talent, and what Forever changed from Classic.
 - **Builds:** the talent builds players are running right now, and each spec's talent pick rates.
 - **Gear:** every item, item set and recipe, with where it drops and who sells it.
+- **Live auction prices:** what anything costs right now on every WoW Forever auction house, straight from Blizzard every hour.
 - **Quests:** every quest, its chain, route and rewards, and the NPCs and objects along the way.
 - **The world:** zones and maps, flight paths, dungeons and raids with their bosses, and battlegrounds.
 - **Guides:** leveling and profession guides.
