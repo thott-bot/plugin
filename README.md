@@ -93,9 +93,8 @@ That opens the sign-in itself; if it doesn't, run `codex mcp login thott`.
 
 ### Cursor
 
-<a href="https://cursor.com/install-mcp?name=thott&config=eyJ1cmwiOiJodHRwczovL21jcC50aG90dC5ib3QvbWNwIn0%3D"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cursor.com/deeplink/mcp-install-light.svg"><img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Add thott.bot to Cursor" height="32"></picture></a>
-
-Then sign in when Cursor asks.
+[Add thott.bot to Cursor](https://cursor.com/install-mcp?name=thott&config=eyJ1cmwiOiJodHRwczovL21jcC50aG90dC5ib3QvbWNwIn0%3D)
+opens Cursor with thott.bot filled in. Then sign in.
 
 ### Hermes
 
