@@ -17,33 +17,32 @@ Everything about WoW Forever, in the chat app you already use.
 
 </div>
 
-## Close your tabs.
+## Close your other tabs.
 
 Anything you'd look up is already in your chat.
 
-- **Never lagging.** thott.bot tracks every change to the game within minutes of it landing, and Blizzard's own news
-  and posts.
-- **Straight from the game.** Every number and tooltip comes from Blizzard's game files for the build you're playing.
-- **Drawn in the chat.** In ChatGPT and Claude, talent trees, tooltips, quest chains and maps appear right in the
-  conversation.
+## Why thott.bot
+
+- **Everything, connected.** Quests, items, recipes, NPCs and maps are linked: what a quest needs, where that item drops, where you turn it in, what it crafts. Your AI gets the whole picture in one place, not scraps from dozens of random sites.
+- **Current to the minute.** Every new build, patch and hotfix reaches thott.bot within minutes of landing, even the silent ones.
+- **Straight from Blizzard.** Game facts come from Blizzard's own files and posts, not old guides or forum guesses. Community builds and guides are labeled and credited.
 
 ## What it knows
 
-- **Every update:** each new build of the game and everything it changed, tracked automatically within minutes of it
-  landing, plus Blizzard's news and developer posts from the official forums.
-- **Classes:** every class, race and racial, ability and talent, and what Forever changed from Classic.
-- **Builds:** the talent builds players are running right now, and each spec's talent pick rates.
-- **Gear:** every item, item set and recipe, with where it drops and who sells it.
-- **Live auction prices:** what anything costs right now on every WoW Forever auction house, straight from Blizzard every hour.
-- **Quests:** every quest, its chain, route and rewards, and the NPCs and objects along the way.
-- **The world:** zones and maps, flight paths, dungeons and raids with their bosses, and battlegrounds.
-- **Guides:** leveling and profession guides.
-- **Professions:** every profession, riding and other skills.
-- **Collections:** mounts, companion pets, toys, achievements, titles, reputations, currencies, holidays and the
-  Legacy system.
-- **Combat:** buffs and debuffs, pet abilities and diminishing returns.
-- **The interface:** every setting, key binding, chat command and character customization option.
-- **Addons:** the addon API, and which addons are banned.
+- **Patch notes and changes:** every build and hotfix, and exactly what each changed.
+- **Quests and leveling:** every quest, its chain, route and rewards, and leveling guides.
+- **Talents and builds:** the builds players run right now, every spec's talent pick rates, and every talent change.
+- **Spells and abilities:** every spell and ability, and every change to each.
+- **Classes and races:** every class, race and racial, and what Forever changed for each.
+- **Items and gear:** every item and item set, where it drops and who sells it.
+- **Crafting and professions:** every profession, recipe and reagent, what each reagent makes, and profession leveling guides.
+- **Auction house:** live prices on every WoW Forever auction house, hourly.
+- **The world:** zones, maps, flight paths, dungeons, raids and bosses, battlegrounds.
+- **Collections:** mounts, pets, toys, achievements, reputations and holidays.
+- **Interface and addons:** every setting, key binding and chat command, the addon API and banned addons.
+- **Blizzard news:** news and developer posts (blue posts) from the official forums.
+
+In ChatGPT and Claude, ask to see it: the game's own tooltips, clickable talent trees, quest chains, maps and before-and-after cards.
 
 ## Ask the way you already do
 
@@ -114,7 +113,7 @@ Add `https://mcp.thott.bot/mcp` wherever it adds a remote MCP server (Streamable
 ## Is this an MCP server?
 
 Yes, a remote MCP server at `https://mcp.thott.bot/mcp`. Your AI signs in with OAuth and gets read-only tools to
-search the game, open full entries, track every change between builds, and draw answers as interactive displays.
+search the game, open full entries, track every change between builds, and show answers as interactive displays.
 
 ## Is this just scraped from other sites?
 
