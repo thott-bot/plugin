@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "thott-bot",
   "version": "1.0.0",
-  "description": "thott.bot makes your AI an expert on World of Warcraft: Forever, from Blizzard's own game files for the build you're playing, current to the latest hotfix, with Blizzard's news and credited community data, drawn right in the chat.",
+  "description": "Everything about World of Warcraft: Forever in your AI, from every change to live auction prices.",
   "author": {
     "name": "Eden Blue Ventures LLC",
     "email": "support@thott.bot",
