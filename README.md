@@ -7,7 +7,7 @@
 
 # thott.bot
 
-**World of Warcraft: Forever for ChatGPT, Claude and any AI: items, quests, talents, maps and guides.**<br>
+**Everything about World of Warcraft: Forever in your AI, from every change to live auction prices.**<br>
 Everything about WoW Forever, in the chat app you already use.
 
 <a href="https://thott.bot/ai"><img src=".github/media/ai-questions.avif" width="100%" alt="An AI chat with thott.bot answering five World of Warcraft: Forever questions: where to get a sleeping bag, the most popular Retribution Paladin builds, what to cook, new gear for a level 28 warrior, and what's new for warriors at 20."></a>
